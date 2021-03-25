@@ -1,2 +1,4 @@
 # coursera-qwiklabs
-Qwiklabs Introduction to Github Help
+Qwiklabs Introduction to Github
+
+I am editing the README file. Adding some more details about the project description.
